@@ -1,1 +1,1 @@
-this is github
+print("Hello Github")
